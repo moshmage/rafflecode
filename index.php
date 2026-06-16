@@ -45,7 +45,7 @@
 				<div class="container-fluid">
 					<a class="brand" href="index.php">Raffle'it!</a>
 					<div class="nav-collapse collapse">
-						<ul class="nav"><li><a href="http://moshcode.me" target="_blank">by www.moshcode.me</a></li></ul>
+						<ul class="nav"><li><a href="http://www.moshmage.com" target="_blank">by www.moshmage.com</a></li></ul>
 						<ul class="nav pull-right">
 							<li class="dropdown">
 								<a class="dropdown-toggle" href="#" data-toggle="dropdown">credits<strong class="caret"></strong></a>
@@ -55,7 +55,7 @@
 									<a class="link" href="http://jquery.com/" target="_blank">JQuery</a> and  
 									<a class="link" href="http://php.net/" target="_blank">PHP</a>.
 									<h4>Other</h4>
-									<p><a href="http://moshcode.me" target="_blank">MoshMage</a> provided the implementation of all technologies.</p>
+									<p><a href="http://www.moshmage.com" target="_blank">MoshMage</a> provided the implementation of all technologies.</p>
 									<hr/>
 									<p>You can download the source code <a href="rafflecode.zip" class="btn btn-info">here</a></p>
 								</div>
